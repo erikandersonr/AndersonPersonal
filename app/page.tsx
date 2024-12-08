@@ -10,18 +10,19 @@ export default function Home() {
 ander7er@dukes.jmu.edu
 
 About Me
-I\'m a Finance major at James Madison University. I\'m passionate about building companies that solve real-world problems.
+I\'m a freshman Finance major at James Madison University. I\'m passionate about building companies that solve real-world problems.
 I\'m passionate about product development and UX design.
 I\'m from the DC area and grew up with a passion for entrepreneurship and space.
 
 Projects
 I\'m the founder of Venturo, a startup that is building a platform for the next generation of market research for Venture Capital.
+I also created Vercode, which is a platform for detecting plagiarism in code.
 I gained customer experience skills at Alan Health, where I was an early employee and got first-hand experience with the challenges of launching a new product in a crowded market.
 I\'m a self-taught developer and began learning to code to build out my ideas.
 
 Personal Interests
 I previously played rugby and lacrosse in high school and currently row on the club team at JMU.
-As a kid, I was fascinated by space and dreamed of going to Mars. I\'m also a big fan of the Washington Commanders.`;
+I\'m also a big fan of the Washington Commanders.`;
 
     return (
         <div className="min-h-screen flex flex-col">
@@ -42,6 +43,9 @@ As a kid, I was fascinated by space and dreamed of going to Mars. I\'m also a bi
                         </Link>
                         <Link href="https://venturoai.com/" target="_blank" rel="noopener noreferrer">
                             Venturo
+                        </Link>
+                        <Link href="https://vercode-p3xx.vercel.app/" target="_blank" rel="noopener noreferrer">
+                            Vercode
                         </Link>
                     </div>
                 </div>
