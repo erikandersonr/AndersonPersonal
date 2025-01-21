@@ -10,9 +10,9 @@ export default function Home() {
 ander7er@dukes.jmu.edu
 
 About Me
-I\'m a freshman Finance major at James Madison University. I\'m passionate about building companies that solve real-world problems.
-I\'m passionate about product development and UX design.
-I\'m from the DC area and grew up with a passion for entrepreneurship and space.
+I\'m a freshman Finance major at James Madison University with a strong interest in finance, algorithmic trading, and leveraging technology to solve real-world problems.
+I\'m passionate about product development, quantitative analysis, and building innovative solutions that drive efficiency and create value.
+I\'m from the DC area and grew up with a passion for entrepreneurship and space exploration.
 
 Projects
 I\'m the founder of Venturo, a startup that is building a platform for the next generation of market research for Venture Capital.
